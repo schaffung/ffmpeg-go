@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/disintegration/imaging"
+	ffmpeg "github.com/schaffung/ffmpeg-go"
 	"github.com/stretchr/testify/assert"
-	ffmpeg "github.com/u2takey/ffmpeg-go"
 )
 
 //
